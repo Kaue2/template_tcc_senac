@@ -1,0 +1,81 @@
+Demonstrações e implementações ------------
+
+Design and Practical Implementation of a Stream Cipher Algorithm Based on a Lorenz System
+DOI: 10.58496/MJCS/2024/019
+
+Chaos-Based Image Encryption Using Refined Hash Function
+DOI: 10.56201/ijcsmt.v11.no2.2025.pg59.72
+
+Image Encryption Via Hybrid Caótica Algorithms
+DOI: 10.47172/2965-730X.SDGsReview.v6.n01.pe08094
+
+Chameleon Chaotic System-Based Audio Encryption Algorithm and FPGA Implementation
+DOI: 10.37917/ijeee.21.1.23
+
+Triple Pendulum Based Nonlinear Chaos Generator and its Applications in Cryptography
+DOI: 10.1109/ACCESS.2022.3226515
+
+Code-Based Cryptography and Chaotic Maps as Pseudo-Random Bit Generator
+DOI: 10.48084/etasr.13718
+
+Chaotic Encryption Algorithm Based on Gingerbreadman Map with Adaptive Symmetry
+DOI: 10.51537/chaos.1500547
+
+Secure Colour Image Encryption Algorithm Based on 2-D Chaotic Henon Map and LFSR for Lightweight Cryptography
+DOI: 10.1007/s42979-025-04199-4
+
+Chaos-based Cryptography for Voice Communication Security
+DOI: 10.36548/jsws.2024.4.001
+
+Image Encryption Based on Chua Chaotic Oscillator
+DOI: 10.1109/ICSPIS51252.2020.9340157
+
+Chaos-Based Cryptography: Text Encryption Using Image Algorithms
+DOI: 10.3390/electronics11193156
+
+An image encryption approach based on a novel two-dimensional chaotic system
+DOI: 10.1007/s11071-024-10053-8
+
+A novel image encryption algorithm using chaos and reversible cellular automata
+DOI: 10.1016/j.cnsns.2013.04.008
+
+From Chaos to Security: A Comparative Study of Lorenz and Rössler Systems in Cryptography
+DOI: 10.3390/cryptography9030058
+
+Coupling chaotic system based on unit transform and its applications in image encryption
+DOI: 10.1016/j.sigpro.2020.107790
+
+Improving chaos-based pseudo-random generators in finite-precision arithmetic
+DOI: 10.1007/s11071-021-06246-0
+
+Special issue: Chaos and Synchronization in Discrete Systems
+DOI:10.1155/3059.si.857064
+
+SECURE DATA TRANSMISSION THROUGH HYBRID CRYPTOGRAPHY AND STEGANOGRAPHIC TECHNIQUES
+DOI: 10.64771/ijesat.2025.046
+
+Image Encryption Using Chaotic Box Partition–Permutation and Modular Diffusion with PBKDF2 Key Derivation
+DOI: 10.20944/preprints202512.1623.v1
+
+Utilizing true periodic orbits in chaos-based cryptography
+DOI:10.1007/s11071-021-06235-3
+
+A hybrid chaos map with two control parameters to secure image encryption algorithms
+DOI: https://doi.org/10.48550/arXiv.2110.15586
+
+Hybrid Chaotic-Based PRNG for Secure Cryptography Applications
+DOI: https://doi.org/10.3390/app13137768
+
+REVISÕES E ESTUDOS ------------
+
+Study of Chaotic-based Audio Encryption Algorithms: A Review
+DOI: 10.37917/ijeee.20.2.8
+
+Encryption-Decryption Algorithm Based On Numerical Methods for Text and Image Dataset: A Review
+DOI: 10.1109/CISES66934.2025.11265433
+
+Chaos and Encryption: Problems and Potential
+10.1109/SSST.2006.1619122
+
+Image Encryption with Cellular Automata: A Comprehensive Review
+10.1007/s11831-026-10536-4

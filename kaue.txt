@@ -1,0 +1,101 @@
+A Novel Chaos-Based Cryptography Algorithm and Its Performance Analysis
+https://doi.org/10.3390/math10142434
+
+Comprehensive Review and Analysis of Image Encryption Techniques
+https://doi.org/10.1109/ACCESS.2025.3578158
+
+A PERFORMANCE AND SECURITY COMPARISON OF HYBRID CHAOS-AES WITH OTHER LIGHTWEIGHT IMAGE ENCRYPTION ALGORITHMS IN RESOURCE-CONSTRAINED PLATFORMS (ok)
+https://doi.org/10.63878/cjssr.v3i3.1203
+
+Security and Performance Analysis of Chaos-based Image Encryption Schemes
+https://doi.org/10.5120/ijca2022922384
+
+Security Analysis of Image Scrambling Cipher Based on Compound Chaotic Equation
+https://doi.org/10.1155/2021/7986300
+
+Nonequal‑length image encryption based on bitplane chaotic mapping
+https://doi.org/10.1038/s41598-024-58612-8
+
+AUDIBLOC: A POST-QUANTUM AUDIO SECURITY SYSTEM WITH FORENSIC WATERMARKING CHAOTIC ENCRYPTION AND BLOCKCHAIN VERIFICATION
+https://jatit.org/volumes/Vol103No23/5Vol103No23.pdf
+
+Research on dynamic key generation and data encryption scheme based on chaotic mapping and SM4
+https://doi.org/10.1145/3708036.3708245
+
+Color image authentication and encryption algorithm based on dual random phase encoding and dual chaotic system
+https://doi.org/10.1145/3728725.3728735
+
+Multi-User Image Encryption Scheme Based on Logistic Chaotic Maps and Sector Sharing
+https://doi.org/10.1145/3759928.3759940
+
+A Real-Time Medical Image Encryption Algorithm Leveraging a Novel Hypersensitive Chaotic Map
+https://doi.org/10.1145/3745785
+
+A review of enhanced image techniques using chaos encryption
+https://doi.org/10.37868/sei.v5i1.id187
+
+Secure Image Transmission Using Multilevel Chaotic Encryption and Video Steganography
+https://doi.org/10.3390/a18070406
+
+Lightweight CNN-based edge computing with hybrid chaotic encryption for secure and efficient image transmission in IoT networks
+https://doi.org/10.1007/s10791-026-09942-w
+
+A novel image cryptosystem for biomedical images and secured storage by randomized chaotic encryption scheme
+https://doi.org/10.62110/sciencein.jist.2025.v13.1103
+
+Implementation of Chaotic Encryption Architecture on FPGA for On-Chip Secure Communication
+https://doi.org/10.1109/IGESSC55810.2022.9955334
+
+A New Block Based Non-Blind Hybrid Color Image Watermarking Approach Using Lifting Scheme and Chaotic Encryption Based on Arnold Cat Map
+https://doi.org/10.18280/ts.390408
+
+Adversarial Defense via Image Denoising with Chaotic Encryption
+https://doi.org/10.48550/arXiv.2203.10290
+
+Secure Medical Image Transmission Using Chaotic Encryption and Blockchain-Based Integrity Verification
+http://dx.doi.org/10.32604/cmc.2025.065356
+
+Blockchain‑Driven Optimized Chaotic Encryption Scheme for Medical Image Transmission in IoT‑Edge Environment
+https://doi.org/10.1007/s44196-024-00731-1
+
+SMS Security by Elliptic Curve and Chaotic Encryption Algorithms
+http://doi.org/10.23851/mjs.v34i3.1318
+
+Distributed private preserving learning based chaotic encryption framework for cognitive healthcare IoT systems
+https://doi.org/10.1016/j.imu.2024.101547
+
+CES Blocks—A Novel Chaotic Encryption Schemes-Based Blockchain System for an IoT Environment
+https://doi.org/10.1109/ACCESS.2022.3144681
+
+Privacy-Preserving for Images in Satellite Communications: A Comprehensive Review of Chaos-Based Encryption
+https://doi.org/10.48550/arXiv.2410.21177
+
+Generating Powerful Encryption Keys for Image Cryptography With Chaotic Maps by Incorporating Collatz Conjecture
+https://doi.org/10.1109/ACCESS.2024.3349470
+
+NEW TECHNIQUE OF STYGANOGRAPHY BASED ON THE THEORY OF CHAOS: SURVEY
+https://doi.org/10.37231/myjcam.2021.4.1.69
+
+New Chaotic System: M-Map and Its Application in Chaos-Based Cryptography
+https://doi.org/10.3390/sym14050895
+
+Secure End-to-End Voice Communication: A Comprehensive Review of Steganography, Modem-Based Cryptography, and Chaotic Cryptography Techniques
+https://doi.org/10.1109/ACCESS.2024.3405317
+
+Chaotic Image Security Techniques and Developments: A Review
+https://doi.org/10.3390/math13121976
+
+Review on Different Chaotic Based Image Encryption Techniques
+https://www.ripublication.com/irph/ijict_spl/ijictv4n2spl_14.pdf
+
+Survey on image encryption techniques using chaotic maps in spatial, transform and spatiotemporal domains
+https://doi.org/10.1007/s10207-022-00588-5
+
+A Survey on Image Encryption using Chaos-based Techniques
+https://doi.org/10.14569/IJACSA.2021.0120145
+
+Chaotic Image Encryption: State-of-the-Art, Ecosystem, and Future Roadmap
+https://doi.org/10.3390/asi5030057
+
+Chaos-Based Image Encryption: Review, Application, and Challenges
+https://doi.org/10.3390/math11112585
