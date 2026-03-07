@@ -64,10 +64,10 @@
 % INFORMAÇÕES DO DOCUMENTO
 % ---------------------------------------------------------------
 \titulo{Título do Trabalho de Conclusão de Curso}
-\autor{Nome Completo do Aluno}
+\autor{Felipe Ramos Victor \\ Kaue Oliveira dos Anjos}
 \local{São Paulo}
-\data{2025}
-\orientador{Prof. Nome do Orientador}
+\data{2026}
+\orientador{Afonso Lelis}
 % \coorientador{Prof. Nome do Coorientador} % Descomente se houver coorientador
 
 \instituicao{%
@@ -75,12 +75,12 @@
   \par
   Unidade Santo Amaro
   \par
-  Curso de [Nome do Curso]
+  Bacharelado em Ciência da Computação
 }
 
 \tipotrabalho{Trabalho de Conclusão de Curso I}
 
-\preambulo{Proposta de Trabalho de Conclusão de Curso apresentado ao SENAC Santo Amaro como requisito parcial para aprovação na disciplina de TCC1 do curso de [Nome do Curso].}
+\preambulo{Proposta de Trabalho de Conclusão de Curso apresentado ao SENAC Santo Amaro como requisito parcial para aprovação na disciplina de TCC1 do curso de Ciência da Computação.}
 
 % ---------------------------------------------------------------
 % COMPILA O ÍNDICE
@@ -117,12 +117,20 @@
 % RESUMO
 % ---------------------------------------------------------------
 \begin{resumo}
-Este documento apresenta a proposta inicial do Trabalho de Conclusão de Curso (TCC1) desenvolvido no SENAC Santo Amaro. O objetivo deste trabalho é [descrever brevemente o objetivo principal do TCC]. A justificativa para este estudo baseia-se em [descrever brevemente a justificativa]. A revisão bibliográfica abrange [mencionar os principais tópicos]. Como solução proposta, pretende-se [descrever brevemente a solução]. Este trabalho está organizado em três capítulos que apresentam a introdução ao tema, a revisão bibliográfica que fundamenta a pesquisa, o desenvolvimento com a solução proposta e o cronograma de trabalho, seguidos das referências bibliográficas.
+Este documento apresenta a proposta inicial do Trabalho de Conclusão de Curso (TCC1) desenvolvido no SENAC Santo Amaro. 
+O objetivo deste trabalho é Evidenciar as barreiras e limites de algoritmos de criptografia baseados em osciladores caóticos aplicados a sistemas de mensageria. 
+A justificativa para este estudo baseia-se em Diversos algoritmos de criptografia são utilizados para a garantia da segurança das informações, 
+decidimos então comparar e estudar a viabilidade do uso de algoritmos de criptografia baseados em osciladores caóticos
+ com a intenção de mostrar até aonde o mesmo seria utilizável e razoável para sistemas de mensageria. 
+ A revisão bibliográfica abrange criptografia baseada em caos, criptografia clássica e técnicas de criptografia multimídia. 
+ Como solução proposta, pretende-se evidenciar as barreiras e limites de algoritmos de criptografia baseados em osciladores caóticos aplicados sistemas de mensageria. 
+ Este trabalho está organizado em três capítulos que apresentam a introdução ao tema,
+  a revisão bibliográfica que fundamenta a pesquisa, o desenvolvimento com a solução proposta e o cronograma de trabalho, seguidos das referências bibliográficas.
 
 \vspace{\onelineskip}
 
 \noindent
-\textbf{Palavras-chave}: palavra1. palavra2. palavra3. palavra4. palavra5.
+\textbf{Palavras-chave}: Criptografia. Caos. Segurança. Multimídia.
 \end{resumo}
 
 % ---------------------------------------------------------------
@@ -157,7 +165,10 @@ Este documento apresenta a proposta inicial do Trabalho de Conclusão de Curso (
 \chapter{Introdução}
 \label{cap:introducao}
 
-A introdução deve apresentar o tema do trabalho de forma clara e objetiva, situando o leitor no contexto da pesquisa. Neste capítulo, são apresentados o contexto no qual o problema se insere, a justificativa para a realização do estudo e os objetivos que norteiam o desenvolvimento do trabalho.
+A introdução deve apresentar o tema do trabalho de forma clara e objetiva, 
+situando o leitor no contexto da pesquisa. Neste capítulo, 
+são apresentados o contexto no qual o problema se insere, 
+a justificativa para a realização do estudo e os objetivos que norteiam o desenvolvimento do trabalho.
 
 % ---------------------------------------------------------------
 \section{Contexto}
@@ -205,15 +216,9 @@ A revisão bibliográfica não consiste em simplesmente listar os trabalhos enco
 \section{Justificativa}
 \label{sec:justificativa}
 
-Explicite por que resolver esse problema é importante. A justificativa deve abordar:
-
-\begin{itemize}
-    \item \textbf{Relevância acadêmica}: como este trabalho contribui para o avanço do conhecimento na área;
-    \item \textbf{Relevância prática/profissional}: quais benefícios práticos a solução trará para usuários, organizações ou a sociedade;
-    \item \textbf{Lacuna identificada}: o que ainda não foi resolvido ou explorado suficientemente pelos trabalhos existentes.
-\end{itemize}
-
-Mostre que o trabalho não é apenas um texto sobre um tema popular, mas sim uma proposta que visa preencher uma lacuna real e contribuir de forma significativa para a área.
+A criptografia em cenários de comunicação entre pares (P2P) é essencial atualmente para assegurar a segurança e a privacidade. 
+Como diversos algoritmos tradicionais já são utilizados para esse fim, decidimos estudar e comparar a viabilidade de métodos baseados 
+em osciladores caóticos. A intenção é demonstrar até que ponto essa abordagem seria utilizável e razoável para sistemas de mensageria.
 
 % ---------------------------------------------------------------
 \section{Objetivo}
@@ -223,22 +228,17 @@ Os objetivos definem o que o trabalho pretende alcançar. Devem ser claros, mens
 
 \subsection{Objetivo principal}
 
-O objetivo principal deve ser \textbf{único} e sintetizar o propósito central do trabalho em uma frase direta. Ele deve responder à pergunta: \textit{o que este trabalho pretende resolver ou alcançar?}
-
-Exemplo: \textit{Desenvolver um sistema web para gerenciamento de tarefas acadêmicas que permita aos estudantes organizar suas atividades de forma colaborativa.}
-
-\textbf{Dica}: utilize verbos no infinitivo como \textit{desenvolver}, \textit{analisar}, \textit{propor}, \textit{avaliar}, \textit{implementar}, \textit{comparar}, entre outros. Evite verbos vagos como \textit{estudar} ou \textit{entender}.
+Evidenciar as barreiras e limites de algoritmos de criptografia baseados em osciladores caóticos aplicados a sistemas de mensageria.
 
 \subsection{Objetivos secundários}
 
 Os objetivos secundários são desdobramentos do objetivo principal. Eles descrevem as etapas ou ações necessárias para atingir o objetivo principal. Devem ser mensuráveis e verificáveis.
 
 \begin{enumerate}
-    \item Realizar levantamento bibliográfico sobre [tema específico];
-    \item Identificar e analisar os requisitos do sistema/solução proposta;
-    \item Projetar a arquitetura da solução com base nos requisitos levantados;
-    \item Implementar um protótipo funcional da solução proposta;
-    \item Validar a solução por meio de [testes, métricas, estudo de caso, etc.].
+    \item Implementar algoritmos de criptografia baseados em osciladores caóticos.
+    \item Implementar algoritmos de criptografia clássicos.
+    \item Comparar computacionalmente os algoritmos implementados.
+    \item Implementar um sistema de mensageria.
 \end{enumerate}
 
 \textbf{Atenção}: cada objetivo secundário deve contribuir diretamente para o alcance do objetivo principal. Evite listar objetivos que não tenham relação clara com o problema.
@@ -359,7 +359,13 @@ Uma tabela comparativa ajuda a sintetizar as diferenças entre os trabalhos:
 \chapter{Desenvolvimento}
 \label{cap:desenvolvimento}
 
-Neste capítulo, apresenta-se a solução proposta para o problema identificado, bem como o cronograma de trabalho previsto para o desenvolvimento completo do projeto no TCC2.
+\section{Métricas de avaliação}
+
+\begin{itemize}
+    \item Tempo de execução,
+    \item Taxa de perda pós compressão,
+    \item Bytes criptografados por segundo.
+\end{itemize}
 
 % ---------------------------------------------------------------
 \section{Solução proposta}
